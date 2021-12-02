@@ -6,7 +6,10 @@
 
 - 🏢 Soy de nacionalidad **Peruana 🇵🇪**
 	@@ -13,8 +11,6 @@
-- 💬 Hazme ping sobre **java**, **Spring**, **TypeScript**, **Angular**
+- ⚙️ Yo uso a diario : .java y .ts principalmente.
+- 🌍 Soy principalmente activo dentro de la comunidad de Java.
+- 🌱 Aprendiendo todo sobre el Open Source
+- 💬 Hazme pregunta sobre **java**, **Spring**, **TypeScript**, **Angular**
 - 📫 Noticias : [twitter.com/JeanSimonR24](https://twitter.com/JeanSimonR24)
 
 ##### GitHub Streak
