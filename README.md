@@ -1,4 +1,4 @@
-Hola 👋, Soy Jean
+### Hola 👋, Soy Jean
 Tengo 20 años, soy un apasionado por la programación.
 BIO
 🏢 Soy de nacionalidad Peruana 🇵🇪
