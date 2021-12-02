@@ -1,6 +1,8 @@
 ### Hola 👋, Soy Jean
 Tengo 20 años, soy un apasionado por la programación.
-**BIOGRAFIA
+
+BIOGRAFIA
+
 - 🏢 Soy de nacionalidad Peruana 🇵🇪
 - ⚙️ Yo uso a diario : .java y .ts principalmente.
 - 🌍 Soy principalmente activo dentro de la comunidad de Java.
